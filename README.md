@@ -15,6 +15,8 @@ Real-time transparency is a future goal based on what we achieved on this projec
 # Summary of Main Findings
 Main findings of the analysis can be found here:  [analysis_code.ipynb](https://github.com/kevinmiguel97/District-7-311-Requests/blob/main/Code%20delivered/analysis_code.ipynb)
 
+Final report can be found here: [Final report](https://github.com/kevinmiguel97/District-7-311-Requests/blob/main/Reports%20delivered/Final%20report.pdf)
+
 # Steps to Reproduce Analysis
 #### Download the Data
 Download the [Required Data](https://drive.google.com/drive/folders/1xIQco1FpzytSaH3loEESOFI1QvyXrm0X?usp=sharing)
