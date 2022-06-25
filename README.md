@@ -13,7 +13,7 @@ The main goal of the project is to help [City Councilor Tania Fernandez](https:/
 Real-time transparency is a future goal based on what we achieved on this project, as our client's plan is to keep exploring the data set generate from this project with future spark teams and generate a dashboard that allows everyone to clearly see how city authorities are responding to their needs.
 
 # Summary of Main Findings
-Main findings of the analysis can be found here:  [analysis_code.ipynb](https://github.com/BU-Spark/ds-city-council-licenses/blob/dev/analysis_code.ipynb)
+Main findings of the analysis can be found here:  [analysis_code.ipynb](https://github.com/kevinmiguel97/District-7-311-Requests/blob/main/Code%20delivered/analysis_code.ipynb)
 
 # Steps to Reproduce Analysis
 #### Download the Data
